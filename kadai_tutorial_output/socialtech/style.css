@@ -1090,7 +1090,7 @@ h3 {
   .product-section2 {
     margin: 20px;
     display: flex;
-    flex-direction: column;
+    flex-direction: colum;
   }
   .product-section2 > img {
     order: 1;
